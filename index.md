@@ -1,6 +1,8 @@
-## Welcome to GitHub Pages
+## FrankDJBing_博客
 
 You can use the [editor on GitHub](https://github.com/FrankcoolD/FrankDJBing/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+
+###工作地址：测试
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
@@ -23,7 +25,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Link](https://ss2.bdstatic.com/70cFvnSh_Q1YnxGkpoWK1HF6hhy/it/u=1730713693,2130926401&fm=26&gp=) and ![Image](0.jpg)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
